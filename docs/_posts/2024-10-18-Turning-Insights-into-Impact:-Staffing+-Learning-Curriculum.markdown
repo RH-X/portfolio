@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Turning Insights into Impact: Discovering Learnability Painpoints at Onboarding to Initiate a S+ Learning Curriculum"
-date:   2024-10-18 18:38:16 -0600
+#date:   2024-10-18 18:38:16 -0600
 categories: jekyll update
 ---
 
