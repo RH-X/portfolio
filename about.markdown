@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-![rae-mcgee-resume](https://github.com/user-attachments/assets/cc6a1700-3c42-4457-b39a-e155a4655903)
 
+![rae-mcgee-resume](https://github.com/user-attachments/assets/20c95b00-1430-4090-9969-1aa8f15d06a7)
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
