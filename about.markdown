@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<p> hey will this post?</p>
 ![rae-mcgee-resume](https://github.com/RH-X/portfolio/blob/gh-pages/_site/assets/rae-mcgee-resume.png)
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
