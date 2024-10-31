@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p>
-<img src="https://github.com/RH-X/portfolio/blob/main/rae-mcgee-resume.pdf"> 
+<img src="https://github.com/RH-X/portfolio/blob/main/rae-mcgee-resume.pdf"/> 
 
 </p>
 
