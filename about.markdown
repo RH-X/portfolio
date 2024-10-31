@@ -3,7 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+<p>
+<img src="https://github.com/RH-X/portfolio/blob/main/rae-mcgee-resume.pdf"> 
 
+</p>
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
