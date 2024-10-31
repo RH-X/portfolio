@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![rae-mcgee-resume](https://github.com/user-attachments/assets/20c95b00-1430-4090-9969-1aa8f15d06a7)
+![rae-mcgee-resume](https://github.com/RH-X/portfolio/blob/gh-pages/_site/assets/rae-mcgee-resume.png)
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
