@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /Resume/
 ---
-![Rae McGee's Resume](/docs/about-page/rae-mcgee-resume.png)
+![Rae McGee's Resume [https://github.com/RH-X/portfolio/blob/gh-pages/docs/about-page/rae-mcgee-resume.png]](https://github.com/RH-X/portfolio/blob/gh-pages/docs/about-page/rae-mcgee-resume.png?raw=true)
 
