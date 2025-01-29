@@ -23,6 +23,6 @@ permalink: /about/
 
 <!-- THIS LINE WORKS BUT DISPLAYS SMALL <img src="https://github.com/RH-X/portfolio/blob/gh-pages/docs/about-page/rae-mcgee-ux-resume.png?raw=true"/> -->
 
-<!-- <img src="https://github.com/RH-X/portfolio/blob/gh-pages/docs/about-page/rae-mcgee-ux-resume.png?raw=true" width="740" height="958"/> -->
+<img src="https://github.com/RH-X/portfolio/blob/gh-pages/docs/about-page/rae-mcgee-ux-resume.png?raw=true" width="740" height="958"/> 
 
-<img src="https://github.com/RH-X/portfolio/blob/gh-pages/docs/about-page/rae-mcgee-ux-resume.png?raw=true" width="1001" height="1272"/>
+<!--<img src="https://github.com/RH-X/portfolio/blob/gh-pages/docs/about-page/rae-mcgee-ux-resume.png?raw=true" width="1001" height="1272"/> TOO BIG -->
