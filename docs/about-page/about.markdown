@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<!--- original line 
+<!--- original line that worked previously
 
 <img src="https://github.com/RH-X/portfolio/blob/gh-pages/docs/about-page/Rae-Resume.svg?raw=true"/> -->
 
