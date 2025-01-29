@@ -18,4 +18,7 @@ permalink: /about/
 
 <!-- last attempt lately <img src="https://github.com/RH-X/portfolio/blob/gh-pages/docs/_site/assets/images/rae-mcgee-ux-resume.pdf?raw=true"/> -->
 
-<img src="https://github.com/RH-X/portfolio/blob/gh-pages/docs/about-page/rae-mcgee-ux-resume.pdf?raw=true"/>
+<!--<img src="https://github.com/RH-X/portfolio/blob/gh-pages/docs/about-page/rae-mcgee-ux-resume.pdf?raw=true"/> -->
+<!-- during this final attempt today, I tried uploading svg rather than pdf, then getting it working. -->
+
+<img src="https://github.com/RH-X/portfolio/blob/gh-pages/docs/about-page/rae-mcgee-ux-resume.png?raw=true"/>
